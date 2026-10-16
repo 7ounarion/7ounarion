@@ -1,97 +1,97 @@
 <div align="center">
 
-# Yunus Köroğlu
+<!-- A quieter corner of GitHub, in ultraviolet. -->
 
-### Mathematics and CS student · Exploring software, AI & creative technology
+<img src="https://capsule-render.vercel.app/api?type=waving&height=215&color=0:120A25,45:45207B,100:9B5DE5&text=7ounarion&fontColor=F5EEFF&fontSize=57&fontAlignY=39&desc=Yunus%20K%C3%B6ro%C4%9Flu%20%E2%80%A2%20Mathematics%20%2F%20Code%20%2F%20Curiosity&descAlignY=60&descSize=15&animation=fadeIn" alt="7ounarion — Yunus Köroğlu" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=75A7FF&center=true&vCenter=true&width=700&lines=Thinking+mathematically%2C+building+creatively.;Exploring+AI+agents+and+software+engineering.;Turning+curiosity+into+real+projects." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=C4A0FF&center=true&vCenter=true&width=680&lines=Thinking+in+patterns.;Learning+by+building.;Somewhere+between+mathematics+and+imagination." alt="Thinking in patterns. Learning by building." />
 
 <br />
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-7ounarion-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7ounarion)
-![Interests](https://img.shields.io/badge/Interests-Math_%7C_AI_%7C_Development-243B55?style=for-the-badge)
+[![Profile](https://img.shields.io/badge/GitHub-7ounarion-24143C?style=flat-square&logo=github&logoColor=E9D5FF)](https://github.com/7ounarion)
+![Theme](https://img.shields.io/badge/currently_exploring-AI_%C2%B7_Code_%C2%B7_Math-6D28A8?style=flat-square&labelColor=24143C&color=7C3AED)
 
 </div>
 
+<br />
+
+### `> whoami`
+
+I'm **Yunus**, a mathematics student with a growing interest in software, artificial intelligence and the ideas that live between disciplines.
+
+I like pulling things apart until they make sense, then putting them back together in a more interesting form. My interests range from **mathematical reasoning and AI agents** to **digital tools, interface design and music**.
+
+I don't believe every experiment needs to become a product. Sometimes understanding *why* something works is the best part.
+
 ---
 
-## 01 / About
-
-I'm **Yunus**, a mathematics student interested in the space where **logical thinking, software engineering, and creative experimentation** intersect.
-
-I enjoy understanding how things work from first principles, exploring new technologies, and finding ways to turn interesting ideas into useful digital experiences.
-
-Outside of code, I'm drawn to **music, visual design, and the patterns connecting mathematics with art**.
-
-> Good ideas become meaningful when they're explored, tested, and built.
-
-## 02 / What I'm Exploring
+### `> currently_exploring`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**AI & Automation**
-
-AI agents, developer workflows, memory systems, and practical integrations.
+**◈ Mathematical thinking**  
+Analysis, proof, abstraction and the patterns hiding underneath complexity.
 
 </td>
 <td width="50%" valign="top">
 
-**Software Development**
-
-Web applications, useful tools, clean architecture, and iterative problem-solving.
+**◈ Intelligent systems**  
+AI agents, useful automations, memory and tools that extend how we work.
 
 </td>
 </tr>
 <tr>
 <td valign="top">
 
-**Mathematics & Logic**
-
-Mathematical analysis, mathematical reasoning, and computational thinking.
+**◈ Building on the web**  
+Interfaces, experiments and learning software development through real projects.
 
 </td>
 <td valign="top">
 
-**Creative Technology**
-
-Interface design, interactive experiences, and the relationship between music and mathematics.
+**◈ The creative side**  
+Music, visual identity and the unexpected intersections of art and technology.
 
 </td>
 </tr>
 </table>
 
-## 03 / Workspace
+### `> my_workspace`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=windows,vscode,git,github,obsidian&theme=dark" alt="Tools and workspace" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,obsidian,windows&theme=dark" alt="Visual Studio Code, Git, GitHub, Obsidian and Windows" />
 
-<sub>Tools in my workflow and areas of exploration — not a claim of expertise in every technology.</sub>
+<sub>Part of my workspace — always changing as I learn.</sub>
 
 </div>
 
-## 04 / GitHub Activity
+### `> open_source_log`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=7ounarion&show_icons=true&hide_border=true&bg_color=0D1117&title_color=75A7FF&text_color=C9D1D9&icon_color=75A7FF" alt="Yunus's GitHub statistics" />
+<a href="https://github.com/7ounarion?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=7ounarion&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4A0FF&text_color=AAAAAA&icon_color=9B5DE5&ring_color=9B5DE5" alt="GitHub activity statistics" /></a>
 
 </div>
 
-## 05 / Projects
-
-I'm building up my public portfolio. This space will feature selected projects as they're ready to share.
-
-**Explore my repositories:** [github.com/7ounarion?tab=repositories](https://github.com/7ounarion?tab=repositories)
-
-## 06 / Find Me
+My public portfolio is a work in progress. Rather than fill this page with placeholder projects, I'll let the repositories speak for themselves as they take shape.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Follow_my_work-7ounarion-243B55?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7ounarion)
+[**↗ Explore my repositories**](https://github.com/7ounarion?tab=repositories)
 
-<sub>Curiosity → experimentation → understanding → building.</sub>
+</div>
+
+---
+
+<div align="center">
+
+<sub>"Somewhere between a theorem and a song."</sub>
+
+<br />
+
+<a href="https://github.com/7ounarion"><img src="https://img.shields.io/badge/7ounarion-stay_curious-6D28A8?style=for-the-badge&labelColor=1D1231&color=7C3AED" alt="7ounarion — stay curious" /></a>
 
 </div>
