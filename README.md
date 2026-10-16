@@ -2,7 +2,7 @@
 
 # Yunus Köroğlu
 
-### Mathematics student · Exploring software, AI & creative technology
+### Mathematics and CS student · Exploring software, AI & creative technology
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=75A7FF&center=true&vCenter=true&width=700&lines=Thinking+mathematically%2C+building+creatively.;Exploring+AI+agents+and+software+engineering.;Turning+curiosity+into+real+projects." alt="Animated introduction" />
 
